@@ -23,7 +23,7 @@ It allows users to **add**, **delete**, **mark as completed**, and **edit tasks*
 ## Installation
 
 1. Clone the repository:
-  git clone https://github.com/navwebg/todo-app-react.git
+  git clone https://github.com/navwebg/todoapp-react
 
 2. Go to the project folder:
 cd "ToDoList React"
