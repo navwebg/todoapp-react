@@ -1,6 +1,6 @@
 <!-- 
-GITHUB LINK:: https://github.com/navwebg/todo-app-react
-GITHUB LINK:: https://github.com/navwebg/todo-app-react 
+GITHUB LINK:: https://github.com/navwebg/todoapp-react
+GITHUB LINK:: https://github.com/navwebg/todoapp-react 
 -->
 
 # To-Do List React App
